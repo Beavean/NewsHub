@@ -15,7 +15,7 @@ enum Constants {
 
     enum API {
         static let articlesPerPage = 30
-        static let apiKey = "5bcf4740654b468bb7330f06e73411da"
+        static let apiKey = "8b23637d92b147fabc23328863cca344"
         static let baseUrl = "https://newsapi.org/"
         static let headLines = baseUrl + "v2/top-headlines"
         static let sources = headLines + "/sources"
