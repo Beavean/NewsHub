@@ -6,7 +6,7 @@ The app was developed within a **3-day sprint** according to specific test task 
 
 | Search | Browse | Filter |
 | :----------: | :---------: | :---------: |
-<img src = "https://github.com/Beavean/Qlear/assets/105853157/d6abb226-ba19-4809-9d78-f1287e8d659d" width = 300> | <img src = "https://github.com/Beavean/Qlear/assets/105853157/92c3412a-b73e-44f1-bd57-d11df79a84a1" width = 300> | <img src = "https://github.com/Beavean/Qlear/assets/105853157/df630692-f15f-4fd5-88ee-014f2050beb0" width = 300> |
+<img src = "https://github.com/Beavean/NewsHub/assets/105853157/d8f94abd-ed4f-4426-9697-83e9a61c71eb" width = 300> | <img src = "https://github.com/Beavean/NewsHub/assets/105853157/06f20764-8dac-4d9a-b6ed-31019c2976b9" width = 300> | <img src = "https://github.com/Beavean/NewsHub/assets/105853157/dab96592-de93-4969-8af2-98a545b84cbe" width = 300> |
 
 ## Features
 
