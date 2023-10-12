@@ -22,6 +22,7 @@ The app was developed within a **3-day sprint** according to specific test task 
 * Basic Error handling
 * Basic DI
 * Only 2 dependencies: Realm & SDWebImage
+* Light/Dark appearance support
 
 ## Requirements
 
