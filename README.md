@@ -25,44 +25,44 @@ The app was developed within a **3-day sprint** according to specific test task 
 * Light/Dark appearance support
 * iOS 14.0+
 
-## Overall requirements 
+## Overall completed requirements 
 
-✅ Latest Swift Version: The app is built using the latest version of Swift.
-
-
-✅ UIKit: The user interface is implemented using UIKit, not SwiftUI.
+✓ Latest Swift Version: The app is built using the latest version of Swift.
 
 
-✅ UITableView: Custom UITableViewCell with the following elements: source, author, title, description, and an image with a clickable link to the full news article using WKWebView.
+✓ UIKit: The user interface is implemented using UIKit, not SwiftUI.
 
 
-✅ Favourite Button: Each UITableViewCell has a favorite button to add articles to the favorite list. Data is stored using Realm.
+✓ UITableView: Custom UITableViewCell with the following elements: source, author, title, description, and an image with a clickable link to the full news article using WKWebView.
 
 
-✅ Saved Articles: Users can view their saved articles in a separate UIViewController.
+✓ Favourite Button: Each UITableViewCell has a favorite button to add articles to the favorite list. Data is stored using Realm.
 
 
-✅ UIRefreshControl: Implemented for pull-to-refresh functionality.
+✓ Saved Articles: Users can view their saved articles in a separate UIViewController.
 
 
-✅ Loading View: A loading view is used for pagination
+✓ UIRefreshControl: Implemented for pull-to-refresh functionality.
 
 
-## Main UIViewController requirements
-
-✅ Sorting: Users have articles sorted by publishedAt.
-
-✅ Filtering: Users can filter articles by category, country, or sources.
+✓ Loading View: A loading view is used for pagination
 
 
-✅ Search: A search feature allows users to search for specific articles.
+## Main UIViewController completed requirements
+
+✓ Sorting: Users have articles sorted by publishedAt.
+
+✓ Filtering: Users can filter articles by category, country, or sources.
 
 
-✅ Pagination: The app supports pagination for fetching more articles.
+✓ Search: A search feature allows users to search for specific articles.
 
 
-✅ API Queries: Queries to the API are managed in a separate class.
+✓ Pagination: The app supports pagination for fetching more articles.
 
 
-✅ Architecture: MVVM or MVP architecture is preferred but not required.
+✓ API Queries: Queries to the API are managed in a separate class.
+
+
+✓ Architecture: MVVM or MVP architecture is preferred but not required.
 
